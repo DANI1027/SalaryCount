@@ -1,0 +1,70 @@
+body{
+	overflow:auto;
+	overflow-x:hidden;
+}
+.container{
+	width:1100px;
+	position: relative;
+  left: 8px;
+  top: 20px;
+}
+.table caption{
+	color:#464B53;
+	font:25px bolder "Microsoft Yahei",arial,"Hiragino Sans GB",sans-serif;
+	margin-bottom:10px;
+}
+.table{
+	border-collapse:collapse;
+	border: 1px solid #8D8D8D;
+	text-align:center;
+	vertical-align:center;
+	color:#5A616B;
+}
+.table th{
+	width:80px;
+	height:50px;
+	background:#6699CC;
+	color:#fff;
+}
+.table .dark{
+	background:#d2d6d9;
+}
+#add{
+	position:relative;
+	left:40%;
+	padding-bottom:10px;
+	display:none;
+	
+}
+.title{
+	position: relative;
+	font-size:40px;
+	text-align:center;
+	top: 50px;
+	font-family:"¿¬Ìå", "Î¢ÈíÑÅºÚ", "ºÚÌå";
+	font-weight:bolder;
+}
+.text{
+	text-indent:2em;
+	font-size:20px;
+	width:550px;
+	word-break: normal;
+	word-break:break-all;
+	position: relative;
+    left: 280px;
+    top:60px;
+	font-family:"Î¢ÈíÑÅºÚ";
+	
+	
+}
+.textarea   {
+	width:550px;
+	position: relative;
+    left: 280px;
+    top:60px;
+	font-family:"Î¢ÈíÑÅºÚ";
+	text-align:center;
+	
+}
+
+
